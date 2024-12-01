@@ -1,0 +1,5 @@
+google.com
+amazon.com
+github.com
+sample.com
+nothing.com

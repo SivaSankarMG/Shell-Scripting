@@ -1,0 +1,4 @@
+user1;grp1
+user2;grp2
+user3;grp1,grp2
+user4;
