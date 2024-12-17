@@ -67,7 +67,7 @@ generate_password() {
 
 
 # Read the input file line by line and save them into variables
-while IFS=';' read -r user groups || [ -n $user ]; do
+while IFS=';' read -r user groups; do
 
     user=$(echo "$user" | xargs)
     groups=$(echo "$groups" | xargs)
